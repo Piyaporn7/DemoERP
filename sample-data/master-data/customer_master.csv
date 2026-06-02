@@ -1,0 +1,3 @@
+CustomerCode,CustomerName,CustomerGroup,TaxID,Address,ContactName,PhoneEmail,PaymentTerm,CreditLimit,PriceList,Currency,TaxType,SalesPerson,Status
+C0001,หจก. เฟอร์นิเจอร์มอลล์,Wholesale (ขายส่ง),0103555000333,"88 ม.5 ถ.พระราม 2 บางขุนเทียน กทม.",คุณวิชัย,081-999-8888 / wichai@fmall.com,NET30,1000000,Standard,THB,VAT7,SP01 (จอห์น),Active
+C0002,ร้านค้าปลีก เจริญดี,Retail (ขายปลีก),3100555000444,"99 ถ.ลาดพร้าว แขวงจตุจักร กทม.",เจ๊นก,089-777-6666 / -,CASH,0,Retail,THB,VAT7,SP02 (เจน),Active

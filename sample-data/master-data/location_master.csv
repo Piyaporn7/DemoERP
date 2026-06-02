@@ -1,0 +1,5 @@
+LocationCode,LocationName,Warehouse,Zone,Shelf,Bin,Status
+A-01-01,โซน A ชั้น 1 ล็อก 1,WH-RAW,A,01,01,Active
+A-01-02,โซน A ชั้น 1 ล็อก 2,WH-RAW,A,01,02,Active
+B-02-01,โซน B ชั้น 2 ล็อก 1,WH-RAW,B,02,01,Active
+C-05-02,โซน C ชั้น 5 ล็อก 2,WH-FG,C,05,02,Active

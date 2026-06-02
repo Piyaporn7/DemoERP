@@ -1,0 +1,3 @@
+PurchaseTypeCode,PurchaseTypeName,Description,Status
+PO-MAT,Purchase Material,สั่งซื้อเพื่อเข้าคลังวัตถุดิบ,Active
+PO-EXP,Purchase Expense,สั่งซื้อวัสดุสิ้นเปลือง/ค่าใช้จ่าย,Active

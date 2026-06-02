@@ -1,0 +1,3 @@
+ResourceCode,ResourceName,ResourceType,CostRate,Status
+LAB-001,ค่าแรงช่างเชื่อม,Labor,500.00 (ต่อวัน),Active
+ELC-001,ค่าไฟฟ้าเครื่องจักร,Machine,50.00 (ต่อชั่วโมง),Active

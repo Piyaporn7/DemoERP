@@ -1,0 +1,5 @@
+AccountCode,AccountName,AccountType,ParentAccount,Level,Status
+111000,เงินสด,Asset,100000,2,Active
+113000,ลูกหนี้การค้า,Asset,100000,2,Active
+211000,เจ้าหนี้การค้า,Liability,200000,2,Active
+411000,รายได้จากการขาย,Revenue,400000,2,Active

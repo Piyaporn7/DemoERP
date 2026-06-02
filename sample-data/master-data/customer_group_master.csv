@@ -1,0 +1,3 @@
+CustomerGroupCode,CustomerGroupName,Description,Status
+CG-WS,Wholesale,ลูกค้ากลุ่มขายส่ง/ตัวแทนจำหน่าย,Active
+CG-RT,Retail,ลูกค้าปลีกหน้าร้าน,Active

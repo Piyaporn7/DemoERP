@@ -1,0 +1,3 @@
+WHTCode,WHTName,TaxRate,TaxType,Description,Status
+WHT3,หัก ณ ที่จ่าย 3%,3.00,Service,"ค่าบริการ, ค่ารับจ้างทำของ",Active
+WHT5,หัก ณ ที่จ่าย 5%,5.00,Rent,ค่าเช่า,Active

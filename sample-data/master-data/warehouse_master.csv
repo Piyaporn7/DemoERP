@@ -1,0 +1,3 @@
+WarehouseCode,WarehouseName,WarehouseType,Address,ResponsiblePerson,Status
+WH-RAW,คลังวัตถุดิบ,Raw Material,อาคาร 1 ชั้น 1,นายก้อง (Store 1),Active
+WH-FG,คลังสินค้าสำเร็จรูป,Finished Goods,อาคาร 2 ชั้น 1,นางสาวแนน (Store 2),Active

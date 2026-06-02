@@ -1,0 +1,5 @@
+ItemCode,ItemName,ItemType,ItemGroup,Unit,CostPrice,SellingPrice,MinStock,MaxStock,ReorderPoint,WarehouseDefault,ShelfLocation,BarcodeOrQRCode,Status
+RM-001,เหล็กแผ่น 2mm,Raw,Material,KG,35.00,0.00,500,2000,600,WH-RAW,A-01-01,885000000001,Active
+FG-001,โต๊ะทำงานเหล็ก,Finished,Furniture,PCS,1200.00,2500.00,50,200,80,WH-FG,C-05-02,885111100001,Active
+RM-002,น็อตเบอร์ 10,Raw,Material,PCS,2.50,0.00,1000,5000,1200,WH-RAW,A-01-02,885000000002,Active
+RM-003,สีพ่นกันสนิม,Raw,Chemical,L,180.00,0.00,100,500,120,WH-RAW,B-02-01,885000000003,Active

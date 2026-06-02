@@ -1,0 +1,14 @@
+SourceCsv,SourceColumn,TargetTable,TargetColumn,TransformRule,Required
+vendor_master.csv,VendorCode,ap_vendor,vendor_code,UPPER(TRIM(VendorCode)),Y
+vendor_master.csv,VendorName,ap_vendor,vendor_name,TRIM(VendorName),Y
+vendor_master.csv,VendorType,ap_vendor,vendor_type,TRIM(VendorType),Y
+vendor_master.csv,TaxID,ap_vendor,tax_id,REPLACE(TaxID,'-',''),N
+vendor_master.csv,Address,ap_vendor,address_line,TRIM(Address),N
+vendor_master.csv,ContactName,ap_vendor,contact_name,TRIM(ContactName),N
+vendor_master.csv,PhoneEmail,ap_vendor,contact_raw,TRIM(PhoneEmail),N
+vendor_master.csv,PaymentTerm,ap_vendor,payment_term_code,UPPER(TRIM(PaymentTerm)),N
+vendor_master.csv,CreditLimit,ap_vendor,credit_limit,CAST(CreditLimit AS DECIMAL(18,2)),N
+vendor_master.csv,Currency,ap_vendor,currency_code,UPPER(TRIM(Currency)),Y
+vendor_master.csv,TaxType,ap_vendor,tax_code,UPPER(TRIM(TaxType)),N
+vendor_master.csv,WithholdingTax,ap_vendor,wht_code,NULLIF(UPPER(TRIM(WithholdingTax)),'-'),N
+vendor_master.csv,Status,ap_vendor,status_flag,CASE WHEN Status='Active' THEN 1 ELSE 0 END,Y

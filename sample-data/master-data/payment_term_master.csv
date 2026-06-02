@@ -1,0 +1,4 @@
+PaymentTermCode,PaymentTermName,CreditDay,DueDateType,Description,Status
+CASH,เงินสด,0,Invoice Date,ชำระทันทีเมื่อส่งมอบ,Active
+NET15,เครดิต 15 วัน,15,Invoice Date,ชำระภายใน 15 วัน นับจากวันออกบิล,Active
+EOM30,30 วัน สิ้นเดือน,30,End of Month,ชำระภายใน 30 วัน นับจากวันสิ้นเดือนของบิล,Active

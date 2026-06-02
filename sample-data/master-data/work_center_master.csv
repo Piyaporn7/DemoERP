@@ -1,0 +1,3 @@
+WorkCenterCode,WorkCenterName,Department,Capacity,Status
+WC-CUT,แผนกตัดเหล็ก,Production,100 ชิ้น/วัน,Active
+WC-ASM,แผนกประกอบ,Production,50 ชิ้น/วัน,Active

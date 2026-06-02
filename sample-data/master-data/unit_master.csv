@@ -1,0 +1,5 @@
+UnitCode,UnitName,UnitDescription,BaseUnit,Status
+PCS,ชิ้น,หน่วยนับเป็นชิ้น/ตัว,Yes,Active
+KG,กิโลกรัม,หน่วยนับน้ำหนัก,Yes,Active
+BOX,กล่อง,1 กล่อง มี 10 ชิ้น,No,Active
+L,ลิตร,หน่วยนับปริมาตรของเหลว,Yes,Active

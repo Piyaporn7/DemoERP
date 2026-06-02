@@ -1,0 +1,4 @@
+BOMCode,Item,Quantity,Unit,ScrapPercent
+BOM-FG001,RM-001 (เหล็กแผ่น 2mm),15.00,KG,2.00
+BOM-FG001,RM-002 (น็อตเบอร์ 10),20.00,PCS,1.00
+BOM-FG001,RM-003 (สีพ่นกันสนิม),0.50,L,5.00

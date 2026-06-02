@@ -1,0 +1,4 @@
+DepartmentCode,DepartmentName,Description,Status
+PRD,Production,ฝ่ายผลิต,Active
+SAL,Sales,ฝ่ายขายและการตลาด,Active
+ACC,Accounting,ฝ่ายบัญชีและการเงิน,Active

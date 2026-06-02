@@ -1,0 +1,3 @@
+MachineCode,MachineName,WorkCenter,Capacity,Status
+MAC-CUT-01,เครื่องตัดเลเซอร์ 1,WC-CUT,50 ชิ้น/วัน,Active
+MAC-CUT-02,เครื่องตัดพลาสม่า,WC-CUT,50 ชิ้น/วัน,Active

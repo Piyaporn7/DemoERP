@@ -1,0 +1,3 @@
+PriceListCode,PriceListName,Currency,EffectiveDate,Description,Status
+PL-STD,Standard Price,THB,2026-01-01,ราคาขายมาตรฐานทั่วไป,Active
+PL-WS,Wholesale Price,THB,2026-01-01,ราคาขายสำหรับตัวแทน (ส่วนลด 20%),Active
